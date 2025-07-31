@@ -2,6 +2,6 @@
 	--white-color: #fff;
 	--gray-color: #aeb4a6;
 	--green-color: #94de1d;
-	--index: calc(1vw + 1vh);
+	--index: calc(0.4vw + 0.4vh);
 	--transition: ease-in-out;
 }
